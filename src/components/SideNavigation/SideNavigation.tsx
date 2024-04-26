@@ -21,7 +21,7 @@ const SideNavigation = (props: Props) => {
         }`}
       >
         <div className="flex justify-between my-4">
-          <h1 className="font-bold p-2">PGD - Knowledge Base</h1>
+          <h1 className="font-bold p-2">Knowledge Base</h1>
           <Image
             className="cursor-pointer"
             src={CollapsableIcon}
